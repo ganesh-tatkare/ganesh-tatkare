@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ganesh-tatkare
+Hey , I'm Ganesh Tatkare!
+
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning ReactJs
 
