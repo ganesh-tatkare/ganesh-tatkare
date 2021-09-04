@@ -5,7 +5,7 @@
 - Currently working with Tata Consultancy Sevices as a Frontend developer
 
 <h3>Projects I Have Worked On-</h3>
-<a href="React-Expense-Tracker">React Expense Tracker</a>
+<a href="https://github.com/ganesh-tatkare/React-Expense-Tracker">React Expense Tracker</a>
 
 <!---
 ganesh-tatkare/ganesh-tatkare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
