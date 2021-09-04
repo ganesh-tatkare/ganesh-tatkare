@@ -3,6 +3,7 @@
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning ReactJs
 - Currently working with Tata Consultancy Sevices as a Frontend developer
+<hr>
 
 <h3>Projects I Have Worked On-</h3>
 <a href="https://github.com/ganesh-tatkare/React-Expense-Tracker">React Expense Tracker</a>
