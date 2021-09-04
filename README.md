@@ -5,7 +5,7 @@
 - Currently working with Tata Consultancy Sevices as a Frontend developer
 <hr>
 
-<h3>Projects I Have Worked On-</h3>
+<h3>My Projects</h3>
 <ol>
   <li><a href="https://github.com/ganesh-tatkare/React-Expense-Tracker">React Expense Tracker</a></li>
   <li><a href="https://github.com/ganesh-tatkare/GDC-Airways-Website">GDC Airways Website</a></li>
