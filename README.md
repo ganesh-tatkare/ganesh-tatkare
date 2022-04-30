@@ -12,6 +12,11 @@
   <li><a href="https://github.com/ganesh-tatkare/Student-Management-Java">Student Management Java</a></li>
 </ol>
 
+<h3>My Articles</h3>
+<ol>
+  <li><a href="https://medium.com/@gtatkare42/responsive-react-table-with-mui-datatables-with-footer-efcf6cc4505c">React table using mui-datatable with custom footer.</a></li>
+</ol>
+
 <!---
 ganesh-tatkare/ganesh-tatkare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
