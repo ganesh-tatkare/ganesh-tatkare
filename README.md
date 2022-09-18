@@ -1,7 +1,7 @@
 <h1>Hey ! I'm Ganesh Tatkare!</h1>
 
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently working on ReactJs
+- 🌱 I’m currently working on ReactJs, React native
 - :computer: Currently working with Tata Consultancy Sevices as a Frontend developer
 <hr>
 
