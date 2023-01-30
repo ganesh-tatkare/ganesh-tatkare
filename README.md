@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently working on ReactJs, React native
-- :computer: Currently working with Tata Consultancy Sevices as a Frontend developer
+- :computer: Currently working with Dassault Systemes as a Frontend developer
 <hr>
 
 <h3>My Projects</h3>
